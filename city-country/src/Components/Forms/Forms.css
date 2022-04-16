@@ -1,0 +1,60 @@
+.countryTable{
+    margin: auto;
+    width: 50%;
+    margin-top: 70px;
+}
+.sortByCountry{
+    /* border: 1px solid red; */
+    width: 25%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.sortByPopulation{
+    /* border: 1px solid red; */
+    width: 25%;
+    margin-left: 65%;
+    margin-top: -65px;
+}
+.sortByCountry button:nth-child(3){
+    margin-left: 20px;
+}
+.sortByPopulation button:nth-child(3){
+    margin-left: 20px;
+}
+.sortByCountry div{
+    margin-bottom: 20px;
+}
+.sortByPopulation div{
+    margin-bottom: 20px;
+}
+.form{
+    margin: auto;
+    width: 27%;
+    height: 270px;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

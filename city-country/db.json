@@ -1,0 +1,28 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "city": "Satara",
+      "population": "550000",
+      "id": 1
+    },
+    {
+      "country": "Australia",
+      "city": "Melon",
+      "population": "45000",
+      "id": 2
+    },
+    {
+      "country": "England",
+      "city": "london",
+      "population": "356556",
+      "id": 3
+    },
+    {
+      "country": "USA",
+      "city": "Newyork",
+      "population": "8796546",
+      "id": 4
+    }
+  ]
+}
